@@ -131,3 +131,6 @@ dmypy.json
 
 # Dataset
 en_US/
+
+
+.DS_Store
